@@ -8,3 +8,5 @@
 DioShaw/DioShaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU4YTA3Y2ItMWU4Ny00NWFjLTg1N2YtZWI1YjE0MjExOWQ5%40thread.v2/0?context=%7b%22Tid%22%3a%22b1ba85eb-a253-4467-9ee8-d4f8ed4df300%22%2c%22Oid%22%3a%225aecdeca-d5b2-4143-92fd-35c7826e1a56%22%7d
